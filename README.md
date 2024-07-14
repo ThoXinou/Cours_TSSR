@@ -109,3 +109,13 @@
 
   - [TSSR - Le métier](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Le%20m%C3%A9tier.md)
   - [TSSR - Les aspects juridiques](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Les%20aspects%20juridiques.md)
+  - [TSSR - Les méthodes d'enseignement](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Les%20m%C3%A9thodes%20d'enseignement.md)
+  - [TSSR - Les outils](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Les%20outils.md)
+  - [TSSR - Présentation du programme](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Pr%C3%A9sentation%20du%20programme.md)
+
+  </details>
+
+  <details>
+  <summary><strong>Virtualisation - Conteneurs</strong></summary>
+
+  - [Docker](https://github.com/ThoXinou/Cours_TSSR/blob/main/Virtualisation%20-%20Conteneurs/Docker.md)
