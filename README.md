@@ -82,6 +82,9 @@
   - [Active Directory - partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Active%20Directory%20-%20partie%201.md)
   - [Active Directory - partie 2](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Active%20Directory%20-%20partie%202.md)
   - [Déploiement automatisé de Windows](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/D%C3%A9ploiement%20automatis%C3%A9%20de%20Windows.md)
+  - [Les GPO](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20GPO.md)
+  - [Les gestionnaires de paquets](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20gestionnaires%20de%20paquets.md)
+  - [Les serveurs Web](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20serveurs%20web.md)
 
   </details>
 
