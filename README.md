@@ -88,6 +88,7 @@
   - [Les utilisateurs - Partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20utilisateurs%20-%20Partie%201.md)
   - [Les utilisateurs - Partie 2](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20utilisateurs%20-%20Partie%202.md)
   - [Outils de l'admin](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Outils%20de%20l'admin.md)
+  - [WSUS](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/WSUS.md)
 
   </details>
 
@@ -100,3 +101,11 @@
   - [RADIUS](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/RADIUS.md)
   - [SSH](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/SSH.md)
   - [VPN](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/VPN.md)
+
+  </details>
+
+  <details>
+  <summary><strong>TSSR</strong></summary>
+
+  - [TSSR - Le métier](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Le%20m%C3%A9tier.md)
+  - [TSSR - Les aspects juridiques](https://github.com/ThoXinou/Cours_TSSR/blob/main/TSSR/TSSR%20-%20Les%20aspects%20juridiques.md)
