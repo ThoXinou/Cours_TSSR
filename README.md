@@ -85,6 +85,9 @@
   - [Les GPO](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20GPO.md)
   - [Les gestionnaires de paquets](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20gestionnaires%20de%20paquets.md)
   - [Les serveurs Web](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20serveurs%20web.md)
+  - [Les utilisateurs - Partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20utilisateurs%20-%20Partie%201.md)
+  - [Les utilisateurs - Partie 2](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Les%20utilisateurs%20-%20Partie%202.md)
+  - [Outils de l'admin](https://github.com/ThoXinou/Cours_TSSR/blob/main/SysAdmin/Outils%20de%20l'admin.md)
 
   </details>
 
