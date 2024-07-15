@@ -119,3 +119,11 @@
   <summary><strong>Virtualisation - Conteneurs</strong></summary>
 
   - [Docker](https://github.com/ThoXinou/Cours_TSSR/blob/main/Virtualisation%20-%20Conteneurs/Docker.md)
+  - [La virtualisation](https://github.com/ThoXinou/Cours_TSSR/blob/main/Virtualisation%20-%20Conteneurs/La%20virtualisation.md)
+
+  </details>
+
+  <details>
+  <summary><strong>Windows</strong></summary>
+
+  - [Scripting Powershell - partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%201.md)
