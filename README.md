@@ -127,3 +127,5 @@
   <summary><strong>Windows</strong></summary>
 
   - [Scripting Powershell - partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%201.md)
+  - [Scripting Powershell - partie 2](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%202.md)
+  - [Scripting Powershell - partie 3](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%203.md)
