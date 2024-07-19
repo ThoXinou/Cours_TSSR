@@ -28,10 +28,12 @@
   - [Journalisation](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Journalisation.md)
   - [La messagerie](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/La%20messagerie.md)
   - [La supervision](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/La%20supervision.md)
+  - [Le cloud](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Le%20cloud.md)
   - [Les services bureautiques](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Les%20services%20bureautiques.md)
   - [Sauvegarde & Archivage](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Sauvegarde%20%26%20Archivage.md)
   - [Suivi de parc informatique](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Suivi%20de%20parc%20informatique.md)
   - [Suivi des incidents](https://github.com/ThoXinou/Cours_TSSR/blob/main/IT%20Management/Suivi%20des%20incidents.md)
+
 
   </details>
 
@@ -97,6 +99,7 @@
 
   - [Cryptographie](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/Cryptographie.md)
   - [Filtrage réseau](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/Filtrage%20r%C3%A9seau.md)
+  - [IDS_IPS](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/IDS_IPS.md)
   - [Introduction à la cybersécurité](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/Introduction%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9.md)
   - [RADIUS](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/RADIUS.md)
   - [SSH](https://github.com/ThoXinou/Cours_TSSR/blob/main/S%C3%A9curit%C3%A9%20R%C3%A9seau/SSH.md)
