@@ -5,7 +5,7 @@
  - Vidéo sur le mappage de lecteurs réseaux par GPO : https://www.youtube.com/watch?v=v__Y7_HeXrg&t=3s
  - Article sur les permissions NTFS : https://www.it-connect.fr/serveur-de-fichiers-les-permissions-ntfs-et-de-partage/
  - Vidéo sur les permissions NTFS : https://www.youtube.com/watch?v=Lfn99UGXZi0&t=3s
- - Article sur la commande  net use (A SAVOIR) : https://www.malekal.com/net-use-windows-partage-lecteur-reseau/
+ - Article sur la commande  `net use` (**A SAVOIR**) : https://www.malekal.com/net-use-windows-partage-lecteur-reseau/
 
 ### Scripts PowerShell : Script CSV 
  - Article sur l'import d'utilisateurs dans un AD via un fichier CSV : https://www.it-connect.fr/chapitres/creer-des-utilisateurs-dans-lad-a-partir-dun-csv/
