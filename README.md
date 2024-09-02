@@ -132,3 +132,17 @@
   - [Scripting Powershell - partie 1](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%201.md)
   - [Scripting Powershell - partie 2](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%202.md)
   - [Scripting Powershell - partie 3](https://github.com/ThoXinou/Cours_TSSR/blob/main/Windows/Scripting%20Powershell%20-%20partie%203.md)
+
+ </details>
+</details>
+
+<details>
+<summary><h2>Cheat Sheets</h2></summary>
+  
+  - [CIDR / Adresses Réseaux](https://github.com/ThoXinou/Cours_TSSR/blob/main/Cheat_Sheets/CIDR.md)
+  - [Modèle OSI / Modèle TCP/IP](https://github.com/ThoXinou/Cours_TSSR/blob/main/Cheat_Sheets/CheatSheetModeleISO-TCP.md)
+  - [Ports - Liste Complète](https://github.com/ThoXinou/Cours_TSSR/blob/main/Cheat_Sheets/Common_Ports.md)
+  - [Ports - Liste Condensée + Couches OSI](https://github.com/ThoXinou/Cours_TSSR/blob/main/Cheat_Sheets/PortsCheatSheet.md)
+  - [Commandes Linux - Utilisateurs/Groupes](https://github.com/ThoXinou/Cours_TSSR/blob/main/Cheat_Sheets/Linux_Commands_Users_Groups.md)
+
+  
