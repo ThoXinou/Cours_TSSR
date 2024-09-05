@@ -195,6 +195,7 @@
 ### Table de routage d'un routeur IPv4 et IPv6
  - Commande Cisco pour faire un iproute
  - Lien pour les commandes d'un routeur Cisco : https://www.numelion.com/commandes-routeurs-cisco.html
+ - Lien pour configurer une route statique en IPv6 : https://www.fingerinthenet.com/ipv6-route-statique/
 
 ### Sous-réseaux IP (Checkpoint 4)
  - Lien vers la quête "Découpage de réseaux IP : https://odyssey.wildcodeschool.com/quests/2277
